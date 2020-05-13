@@ -9,7 +9,7 @@ https://discordapp.com/oauth2/authorize?&client_id=[Client Id]&scope=bot&permiss
 
 ### Commands
 
-- ``[Command]`` [describtion]
+- ``[Command]`` [Command describtion]
 
 ## Developers
 
