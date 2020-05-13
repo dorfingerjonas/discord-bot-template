@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const token = require('./auth').token;
 
 client.on('ready', () => {
-    console.log('Bot started...');
+    console.log(`Logged in as ${client.user.tag}`);
 });
 
 client.on('message', (msg) => {
