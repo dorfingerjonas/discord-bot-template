@@ -1,5 +1,5 @@
-# [BOT NAME]
-[BOT DESCRIPTION]
+# [Bot Name]
+[Bot Description]
 
 ## Invite the bot
 
