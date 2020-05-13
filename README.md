@@ -3,7 +3,7 @@
 
 ## Invite the bot
 
-https://discordapp.com/oauth2/authorize?&client_id=[Client Id]&scope=bot&permissions=[Permissions Integer]
+https://discordapp.com/oauth2/authorize?&client_id=[Client-Id]&scope=bot&permissions=[Permissions-Integer]
 
 ## Usage of the bot
 
