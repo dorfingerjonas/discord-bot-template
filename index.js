@@ -6,8 +6,8 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
 });
 
-client.on('message', (msg) => {
-    console.log('message received')
+client.on('message', msg => {
+    console.log(msg.content);
 });
 
 client.login(token);
