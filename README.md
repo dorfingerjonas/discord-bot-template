@@ -9,7 +9,7 @@ https://discordapp.com/oauth2/authorize?&client_id=[Client-Id]&scope=bot&permiss
 
 ### Commands
 
-- ``[Command]`` [Command describtion]
+- ``[Command]`` [Command description]
 
 ## Developers
 
@@ -25,5 +25,5 @@ If you want to run the bot yourself, [create a new Discord Bot](https://discorda
 
 <hr>
 <br>
-<center>Copyright © 2020, [Your Name].</center>
-<center>This bot is <a href="https://github.com/dorfingerjonas/discord-bot-template/blob/master/LICENSE">MIT licensed</a>
+Copyright © 2020, [Your Name].
+This bot is <a href="./LICENSE">MIT licensed</a>
